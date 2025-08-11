@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hey everyone! My name is Nikee Holder 👋
+
+- 🏫 I'm a student currently studying Computer Engineering at North Carolina State University
+- 🎮 I enjoy Xbox, exercise, and DIY projects
+- 🖥️ Check out some of my coding projects hosted on Github
+- 📧 Connect with me on <a href="https://www.linkedin.com/in/wesleyn-hold">LinkedIn</a> or by email at my business email nikeeholder.biz@proton.me
 
 <!--
 **nikhold/nikhold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
